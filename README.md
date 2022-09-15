@@ -19,7 +19,7 @@ I will help you always.
 
 ## Authors
 
-- [@DevGupta](https://www.github.com/octokatherine)
+- [@DevGupta](https://www.linkedin.com/in/dev-gupta-9270aa222)
 
 ## 🛠 Skills
 Javascript, HTML, CSS, Java, C++,...
