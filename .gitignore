@@ -4,3 +4,7 @@
 # Compiled Object files
 *.slo
 *.lo
+*.pyc
+*.cpp
+*.exe
+*.java
